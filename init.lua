@@ -1,4 +1,4 @@
-require("tecoow")
+require("costin")
 vim.opt.number = true
 vim.opt.relativenumber = true
 
